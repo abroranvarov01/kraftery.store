@@ -1,4 +1,4 @@
 export const slugsName: { [key: string]: string } = {
-  "pack": "https://thefruitdryer.com/tery",
+  "jim-beam": "https://thefruitdryer.com/tery",
 }
 
